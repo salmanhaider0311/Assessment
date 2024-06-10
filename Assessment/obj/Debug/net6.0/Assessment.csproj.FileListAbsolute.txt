@@ -1,0 +1,15 @@
+D:\Assessment\Assessment\bin\Debug\net6.0\Assessment.exe
+D:\Assessment\Assessment\bin\Debug\net6.0\Assessment.deps.json
+D:\Assessment\Assessment\bin\Debug\net6.0\Assessment.runtimeconfig.json
+D:\Assessment\Assessment\bin\Debug\net6.0\Assessment.dll
+D:\Assessment\Assessment\bin\Debug\net6.0\Assessment.pdb
+D:\Assessment\Assessment\obj\Debug\net6.0\Assessment.csproj.AssemblyReference.cache
+D:\Assessment\Assessment\obj\Debug\net6.0\Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessment\Assessment\obj\Debug\net6.0\Assessment.AssemblyInfoInputs.cache
+D:\Assessment\Assessment\obj\Debug\net6.0\Assessment.AssemblyInfo.cs
+D:\Assessment\Assessment\obj\Debug\net6.0\Assessment.csproj.CoreCompileInputs.cache
+D:\Assessment\Assessment\obj\Debug\net6.0\Assessment.dll
+D:\Assessment\Assessment\obj\Debug\net6.0\refint\Assessment.dll
+D:\Assessment\Assessment\obj\Debug\net6.0\Assessment.pdb
+D:\Assessment\Assessment\obj\Debug\net6.0\Assessment.genruntimeconfig.cache
+D:\Assessment\Assessment\obj\Debug\net6.0\ref\Assessment.dll
